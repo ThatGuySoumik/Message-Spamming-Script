@@ -12,7 +12,7 @@ def type_msg(msg):
 time.sleep(4) #run after 8 seconds
 i=0
 while i<=24: 
-    msg = "Puii" #enter msg want to send
+    msg = "Good Morning" #enter msg want to send
     type_msg(msg)
     i+=1
 
